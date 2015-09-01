@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS373 Fall 2015 Lawrence Ying
+title: Week One
 ---
 
 This being my first time taking a course taught by Professor Downing, I didn't quite know what to expect. I had heard good things from past students which is why I enrolled in CS 373.
