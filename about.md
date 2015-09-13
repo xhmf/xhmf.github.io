@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-CS student at UT
+UTCS student
 
 ### Contact me
 
